@@ -1,0 +1,16 @@
+{
+  "options": {
+    "paths": {
+      "root": "/data",
+      "mbtiles": "/data",
+      "styles": "/data",
+      "fonts": "/usr/src/app/node_modules/tileserver-gl-styles/fonts"
+    }
+  },
+  "styles": {},
+  "data": {
+    "iran": {
+      "mbtiles": "iran.mbtiles"
+    }
+  }
+}
